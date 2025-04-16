@@ -12,6 +12,17 @@ The tool allows to:
 
 This approach ensures data anonymization, increases dataset variability and facilitates the training of fall detection models that rely on the temporal dynamics of human motion.
 
+# Repository Structure
+The repository is organized as follows:
+- Four folders, each named after one of the datasets being considered. In detail each folder contains:
+   - The code used to extract the subsequences.
+   - The corresponding extracted JSON file with the annotated subsequences.
+- A folder named dataset_tool which contains utility modules for dataset processing:
+   - landmark_extractor: for extracting body landmarks from video sequences.
+   - dataset_creator: for generating annotated subsequences from raw data.
+   - dataset_merger: for combining multiple datasets into a single unified JSON file.
+   - dataset_normalizer: for applying final normalization across all samples.
+
 # Cite this dataset
 
 A. Longo, A. Bono, G. Guaragnella, T. D’Orazio, "A Transformer Based Architecture and a Meta Dataset for Fall Detection", *Submitted to Computer Methods and Programs in Biomedicine*, 2025.
