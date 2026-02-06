@@ -25,4 +25,4 @@ The repository is organized as follows:
 
 # Cite this dataset
 
-A. Longo, A. Bono, G. Guaragnella, T. D’Orazio, "A Transformer Based Architecture and a Meta Dataset for Fall Detection", *Submitted to Computer Methods and Programs in Biomedicine*, 2025.
+A. Longo, A. Bono, G. Guaragnella, T. D’Orazio, "A Skelethon Based Transformer Architecture for View-Invariant Fall Detection", *Submitted to Results in Engineering*, 2025.
