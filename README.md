@@ -25,4 +25,4 @@ The repository is organized as follows:
 
 # Cite this dataset
 
-A. Longo, A. Bono, G. Guaragnella, T. D’Orazio, "A Skelethon Based Transformer Architecture for View-Invariant Fall Detection", *Submitted to Results in Engineering*, 2025.
+A. Bono, A. Longo, G. Guaragnella, T. D’Orazio, "A Skelethon Based Transformer Architecture for View-Invariant Fall Detection", *Submitted to Results in Engineering*, 2025.
