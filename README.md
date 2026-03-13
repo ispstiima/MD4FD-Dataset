@@ -25,4 +25,4 @@ The repository is organized as follows:
 
 # Cite this dataset
 
-A. Bono, A. Longo, G. Guaragnella, T. D’Orazio, "A Non-Invasive Vision-Based Framework for Timely Fall Detection in Healthcare Monitoring", *Submitted to Computers in biology and medicine*, 2026.
+A. Bono, A. Longo, G. Guaragnella, T. D’Orazio, "A Vision-Based Deep Learning Framework for Real-Time Fall Detection in Smart Healthcare Monitoring", *Submitted to Biomedical Signal Processing and Control*, 2026.
